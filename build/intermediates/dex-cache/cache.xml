@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\And\RemenberPassword1\app\libs\sunjce_provider.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2357317d1e1f14937b3bda942c58791ee1dba581">
+        <dex dex="F:\And\RemenberPassword1\app\build\intermediates\pre-dexed\debug\sunjce_provider_63142b530472d92f01bd4104fa96d52d9527b013.jar" />
+    </item>
+    <item
+        jar="D:\android-sdk-window\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\And\RemenberPassword1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_bd4ee730a717cd525956be26490e4404783a92b3.jar" />
+    </item>
+    <item
+        jar="F:\And\RemenberPassword1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="F:\And\RemenberPassword1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-18.0.0_162bee3a585f5e8df8eac1a3b00b775f44a824c5.jar" />
+    </item>
+
+</items>

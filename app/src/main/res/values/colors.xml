@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="login_bg">#339966</color>			<!-- 登录界面背景颜色 -->
+    <color name="white">#FFFFFF</color>				<!-- 登录界面背景颜色 -->
+    <color name="gainsboro">#DCDCDC</color>			<!--淡灰色 -->
+    <color name="btn_normal">#1BB2E9</color>		<!-- 按钮颜色 -->
+    <color name="btn_pressed">#1BC8E9</color>		<!-- 按钮颜色 -->
+    <color name="linear_back">#F2F8F8FF</color>		<!-- LinearLayout背景颜色 -->
+    <color name="linear_stroke">#F0F0F0</color>		<!-- LinearLayout边框颜色 -->
+    
+    <color name="lemonchiffon">#FFFACD</color>		<!--柠檬绸色 --> 
+    <color name="seashell">#FFF5EE</color>			<!--海贝色 -->
+</resources>

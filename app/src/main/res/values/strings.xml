@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RemenberPassword</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Login页面字符信息 -->
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="remember_password">Remenber Password</string>
+    <string name="login">Login</string>
+    <string name="login2">Login...</string>
+    <string name="network_hint">未打开网络，无法登录</string>
+    <string name="username_password_inputhint">用户名和密码不能为空</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+</resources>
